@@ -1,0 +1,122 @@
+[{
+  "id": 1,
+  "street": "287 N Hubbards Ln",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40207
+}, {
+    "id": 2,
+    "street": "5001 Shelbyville Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40207
+}, {
+    "id": 3,
+    "street": "4600 Shelbyville Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40207
+}, {
+  "id": 4,
+  "street": "4910 Shelbyville Rd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40207
+},
+  {
+    "id": 5,
+    "street": "4123 Shelbyville Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40207
+  },
+  {
+  "id": 6,
+  "street": "4211 Shelbyville Rd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40207
+},
+  {
+    "id": 7,
+    "street": "9254 Westport Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40241
+  },
+  {
+  "id": 8,
+  "street": "10501 Westport Rd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40241
+},
+  {
+  "id": 9,
+  "street": "4059 Summit Plaza Dr",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40241
+}, {
+  "id": 10,
+  "street": "10541 Fischer Park Dr",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40241
+},
+  {
+    "id": 11,
+    "street": "3511 Springhurst Commons Dr",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40241
+  },
+  {
+  "id": 12,
+  "street": "3610 Springhurst Blvd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40241
+},
+  {
+    "id": 13,
+    "street": "8600 Citadel Way",
+    "sity": "Louisville",
+    "state": "KY",
+    "zipCode": 40220
+  },
+  {
+  "id": 14,
+  "street": "2350 Shane Dr",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40220
+},
+  {
+  "id": 15,
+  "street": "2730 S Hurstbourne Pkwy",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40220
+}, {
+  "id": 16,
+  "street": "3950 Taylorsville Rd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40220
+},
+  {
+    "id": 17,
+    "street": "3948 Taylorsville Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": 40220
+  },
+  {
+  "id": 18,
+  "street": "4630 Taylorsville Rd",
+  "city": "Louisville",
+  "state": "KY",
+  "zipCode": 40220
+}
+]
